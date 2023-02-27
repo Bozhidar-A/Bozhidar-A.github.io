@@ -1,0 +1,9 @@
+.center-screen-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    gap: 0.5vw;
+}
